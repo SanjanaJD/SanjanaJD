@@ -32,6 +32,15 @@ Currently pursuing my **Master’s in Electrical and Computer Engineering (Machi
 
 ---
 
+## 🧩 Currently Exploring
+
+- 🔍 **Agentic AI Workflows (LangGraph)**  
+- 🤖 **LLM Evaluation & Prompt Optimization**  
+- ⚙️ **Kubernetes-based MLOps Orchestration**  
+- 📊 **Datadog + MLflow for Model Observability**
+
+---
+
 ### 💬 Let’s Connect!  
 🔗 [LinkedIn](https://www.linkedin.com/in/sanjana-j-dhangundi/)  
 💻 [GitHub](https://github.com/SanjanaJD)  
