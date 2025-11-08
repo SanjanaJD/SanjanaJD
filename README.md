@@ -1,13 +1,13 @@
 ## 👋 Hi, I'm Sanjana 
-I’m a **Machine Learning Engineer** passionate about building scalable AI systems and data-driven solutions that bridge the gap between research and real-world impact.  
+I’m a **Machine Learning Engineer | Data Scientist** passionate about building scalable AI systems and data-driven solutions that bridge the gap between research and real-world impact.  
 Currently pursuing my **Master’s in Electrical and Computer Engineering (Machine Learning & Computer Vision)** at **Northeastern University, Boston**, I enjoy designing end-to-end ML pipelines, fine-tuning LLMs, and deploying AI applications on the cloud.
 
 ---
 
 ### 🚀 About Me  
 🎓 **Master’s Student** in Electrical & Computer Engineering (ML & Computer Vision) at Northeastern University  
-👩‍💻 **Machine Learning Engineer Intern** at Ascend Learning — built LangGraph-based multi-agent LLM pipelines, fine-tuned GPT-4 and other off-the-shelf models, and automated large-scale data workflows  
-⚙️ **Former Application Engineer at Alstom** — led automation of data verification workflows, improving system efficiency  
+👩‍💻 **Data Science Intern** at Ascend Learning — built LangGraph-based multi-agent LLM pipelines, fine-tuned GPT-4 and other off-the-shelf models, and automated large-scale data workflows  
+⚙️ **Application Engineer at Alstom** — led automation of data verification workflows, improving system efficiency  
 💡 **Machine Learning Intern** at Adwitiyah — developed predictive algorithms that increased targeting accuracy and drove measurable business growth  
 🌸 **Secretary at Graduate Women Coders Club (NEU Boston)** — organized networking events, Hackerrank coding challenges, and speaker sessions to support and inspire women in tech  
 
